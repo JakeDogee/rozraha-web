@@ -588,7 +588,7 @@ ul.btn li:last-child {
 }
 
 .services_box i {
-  display: inline-block;
+  display: block;
   float: left;
 }
 
