@@ -624,6 +624,11 @@ pre code {
   padding-right: 15px;
   padding-left: 15px;
 }
+
+.col-md-4 {
+  margin-bottom: 60px;
+  position: absolute;
+}
 .col {
   -ms-flex-preferred-size: 0;
   flex-basis: 0;
