@@ -627,7 +627,7 @@ pre code {
 
 .col-md-4 {
   margin-bottom: 60px;
-  position: absolute;
+  /* position: absolute; */
 }
 .col {
   -ms-flex-preferred-size: 0;
