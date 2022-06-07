@@ -145,8 +145,8 @@ ol {
   list-style-type: circle;
 }
 
-li{
-font-size: 20px;
+li {
+  font-size: 20px;
   text-decoration: none !important;
   opacity: 1;
   color: #090807;
@@ -602,6 +602,7 @@ ul.btn li:last-child {
   border-bottom: #eec500 solid 10px;
   transition: ease-in all 0.5s;
   margin-bottom: 30px;
+  height: 600px;
 }
 
 .services_box h3 {
