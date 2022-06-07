@@ -539,6 +539,12 @@ pre code {
   margin-right: -15px;
   margin-left: -15px;
 }
+
+.rowservice {
+  overflow: scroll;
+  height: 400px;
+  overflow-x: hidden;
+}
 .no-gutters {
   margin-right: 0;
   margin-left: 0;
