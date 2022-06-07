@@ -376,8 +376,9 @@ ul.btn li:last-child {
 
 .header {
   width: 100%;
-  padding: 20px 30px;
+  padding: 20px 30px -30px 30px;
   background: #e1f3fd;
+  height: 90px;
 }
 
 .logo a {
@@ -1023,3 +1024,14 @@ ul.location_icon li a:hover {
 }
 
 /** end footer **/
+
+.logo {
+  width: 120px;
+  height: 120px;
+}
+
+.logostyle {
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
