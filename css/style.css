@@ -139,11 +139,21 @@ button:focus {
 }
 
 ul,
-li,
 ol {
   margin: 0px;
   padding: 0px;
-  list-style: none;
+  list-style-type: circle;
+}
+
+li{
+font-size: 20px;
+  text-decoration: none !important;
+  opacity: 1;
+  color: #090807;
+  line-height: 40px;
+  font-weight: bold;
+  padding-bottom: 15px;
+  position: relative;
 }
 
 p {
@@ -1026,8 +1036,9 @@ ul.location_icon li a:hover {
 /** end footer **/
 
 .logo {
-  width: 120px;
-  height: 120px;
+  margin-left: 5px;
+  width: 250px;
+  height: 45px;
 }
 
 .logostyle {
